@@ -6,6 +6,5 @@ description: Materials for courses you taught. Replace this text with your descr
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+I was the tutor for the <a href="https://vision.in.tum.de/teaching/ws2020/ml4cv">Machine Learning for Robotics and Computer Vision</a> course at TUM, from Winter Semester 2015 until Winter Semester 2020.
 
-Organize your courses by years, topics, or universities, however you like!

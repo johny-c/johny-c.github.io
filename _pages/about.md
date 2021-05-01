@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: And if that's all there is, it ain't so bad (Lemmy)
+description: “And if that's all there is, it ain't so bad” (Lemmy)
 
 profile:
   align: right
