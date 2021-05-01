@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: "And if that's all there is, it ain't so bad" (Lemmy)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: john.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Munich</p>
+<!--     <p>123 your address street</p> -->
+<!--     <p>Your City, State 12345</p> -->
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Born and raised in <a href="https://www.google.com/maps/place/Athens,+Greece">Athens, Greece</a>. I loved math from an early age. In high school, I got into playing music (drums & guitar) and with my longest lasting band, f.i.n.e., we even made our own <a href="https://open.spotify.com/album/0VDWER9FXUhU8EnRtTjSXk">album</a>!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I got my B.Sc. in Computer Science from the <a href="http://www.teiath.gr">Technological Educational Institute</a> of Athens in 2012. That's where I got the bug of AI, Neural Networks and Robotics. I went on to get a M.Sc. in Computer Science (Robotics, Cognition, Intelligence) from the <a href="https://www.tum.de/">Technical University of Munich</a> in 2015. Since October 2015, I am a PhD student in the <a href="https://vision.in.tum.de/">Computer Vision and Artificial Intelligence Group</a>, headed by Prof. Dr. Daniel Cremers at TUM. In my PhD, I did research in a diverse set of problems, trying to make them benefit from Machine Learning techniques. I am especially fascinated with Metric Learning, goal-conditioned RL and graph algorithms.
